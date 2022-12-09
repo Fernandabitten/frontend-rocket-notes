@@ -16,6 +16,7 @@ export const Container = styled.div`
 
   background-color: ${({theme}) => theme.COLORS.BACKGROUND_800};
 `;
+
 export const Brand  = styled.div`
   grid-area: brand;
 
@@ -33,6 +34,7 @@ export const Brand  = styled.div`
     color: ${({theme}) => theme.COLORS.ORANGE};
   }
 `;
+
 export const Menu  = styled.ul`
   grid-area: menu;
   background: ${({theme}) => theme.COLORS.BACKGROUND_900};
@@ -43,15 +45,27 @@ export const Menu  = styled.ul`
     margin-bottom: 24px;
   }
 `;
+
 export const Search  = styled.div`
   grid-area: search;
   padding: 64px 64px 0;
 `;
+
 export const Content  = styled.div`
 grid-area: content;
 padding: 0px 64px;
 overflow-y: auto;
+
+::-webkit-scrollbar {
+      width: 8px;     
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background-color: ${({theme}) => theme.COLORS.GRAY_300};
+}
 `;
+
 export const NewNote = styled(Link)`
 grid-area: newnote;
 

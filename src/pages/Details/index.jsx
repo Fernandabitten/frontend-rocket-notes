@@ -1,4 +1,4 @@
-import {Container, Links, Content}  from './style';
+import {Container, Links, Content, ComeBack}  from './style';
 
 import { Header} from '../../components/Header';
 import { Button } from '../../components/Button';
@@ -40,7 +40,10 @@ export function Details() {
             <Tag title="nodejs"/>
           </Section>
           
-          <Button title="Voltar"/>
+          <ComeBack to="/">
+           <Button  title="Voltar"/>
+          </ComeBack>
+          
         </Content>
       </main>
     </Container>
