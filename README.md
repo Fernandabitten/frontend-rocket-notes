@@ -8,7 +8,7 @@
 </div>
 
 ### Layout
-Você pode visualizar o layout do projeto por meio <a href=" https://www.figma.com/file/hbBzycZDR4WGSVWyK5aOqV/RocketNotes?node-id=8%3A438&t=WXAR2YkdpRICjpO4-0">desse link.</a><br/>
+Você pode visualizar o layout do projeto por meio <a href="https://www.figma.com/file/hbBzycZDR4WGSVWyK5aOqV/RocketNotes?node-id=0%3A1&t=WXAR2YkdpRICjpO4-1">desse link.</a><br/>
 Você deve ter uma conta <a href="https://www.figma.com/">Figma</a> para acessá-lo.
 
 <div style="display: inline_block"><br>
@@ -16,3 +16,4 @@ Você deve ter uma conta <a href="https://www.figma.com/">Figma</a> para acessá
   <img align="center" alt="Fer-vs-code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Fer-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
 </div>
+
