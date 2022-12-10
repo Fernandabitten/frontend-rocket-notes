@@ -1,5 +1,5 @@
 ## frontend-rocket-notes
-> Aplicação para acompanhar tudo que assistir.
+> Aplicação para salvar e gerenciar links úteis..
 
 <div style="display: inline_block">
   <img src="https://user-images.githubusercontent.com/77073426/206859266-4769ea3b-b51b-4b14-9479-f902bc87eada.png" width="300px"> 
