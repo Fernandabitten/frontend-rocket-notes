@@ -1,10 +1,14 @@
 ## frontend-rocket-notes
-> Aplicação para salvar e gerenciar links úteis
+> Aplicação para acompanhar tudo que assistir.
 
 <div style="display: inline_block">
-  <img src="https://user-images.githubusercontent.com/77073426/206805042-b0d02a1c-73f3-48e7-9c8f-d543561a5d30.png" width="300px"> 
-  <img src="https://user-images.githubusercontent.com/77073426/206804888-d035721d-fa52-4707-9a64-022c36bcddd4.png" width="300px">
-  <img src="https://user-images.githubusercontent.com/77073426/206805257-c712c602-22d4-4b09-9df9-d930e743b09c.png" width="300px">
+  <img src="https://user-images.githubusercontent.com/77073426/206857872-56b73dc8-bf02-4777-8566-99b7cdf9cc2e.png" width="300px"> 
+  <img src="https://user-images.githubusercontent.com/77073426/206857916-9acdbf84-fe5d-4854-8fe1-ec2ff27dff3e.png" width="300px">
+    <img src="https://user-images.githubusercontent.com/77073426/206858565-9f8f855b-90f3-43d9-8e9f-9fdc076e82fc.png" width="300px">
+
+  <img src="https://user-images.githubusercontent.com/77073426/206858706-e9fdd99a-b3e8-474a-9ef1-7128b166b379.png" width="300px">  
+  <img src="https://user-images.githubusercontent.com/77073426/206858363-571e0802-2211-4060-b167-f9620d989cb5.png" width="300px"> 
+  <img src="https://user-images.githubusercontent.com/77073426/206858507-f8a2cf44-bcce-4aed-9042-41f2d4c8eb8d.png" width="300px">
 </div>
 
 ### Layout
