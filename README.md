@@ -2,13 +2,8 @@
 > Aplicação para acompanhar tudo que assistir.
 
 <div style="display: inline_block">
-  <img src="https://user-images.githubusercontent.com/77073426/206857872-56b73dc8-bf02-4777-8566-99b7cdf9cc2e.png" width="300px"> 
-  <img src="https://user-images.githubusercontent.com/77073426/206857916-9acdbf84-fe5d-4854-8fe1-ec2ff27dff3e.png" width="300px">
-    <img src="https://user-images.githubusercontent.com/77073426/206858565-9f8f855b-90f3-43d9-8e9f-9fdc076e82fc.png" width="300px">
-
-  <img src="https://user-images.githubusercontent.com/77073426/206858706-e9fdd99a-b3e8-474a-9ef1-7128b166b379.png" width="300px">  
-  <img src="https://user-images.githubusercontent.com/77073426/206858363-571e0802-2211-4060-b167-f9620d989cb5.png" width="300px"> 
-  <img src="https://user-images.githubusercontent.com/77073426/206858507-f8a2cf44-bcce-4aed-9042-41f2d4c8eb8d.png" width="300px">
+  <img src="https://user-images.githubusercontent.com/77073426/206859266-4769ea3b-b51b-4b14-9479-f902bc87eada.png" width="300px"> 
+  <img src="https://user-images.githubusercontent.com/77073426/206859364-deb26aee-b373-44b8-a97d-65acf0d872d9.png" width="300px">
 </div>
 
 ### Layout
